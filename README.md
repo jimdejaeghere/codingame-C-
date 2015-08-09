@@ -1,4 +1,4 @@
-# codingame-C-
+# codingame-C++
 my solutions for the codingame challenges. https://www.codingame.com/home
 
 Started reading C++ Primer
